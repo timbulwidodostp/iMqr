@@ -1,6 +1,8 @@
 # iMqr
 M-Quantile Regression Coefficients Modeling Use iMqr (Mqrcm) With (In) R Software
 
+https://www.youtube.com/watch?v=rP7b3-7OBqw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
